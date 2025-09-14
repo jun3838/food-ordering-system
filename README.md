@@ -8,7 +8,7 @@ Below is a take home assignment before the interview of the position. You are re
 6. Bring the source code and functioning prototype to the interview session.
 
 ### Situation
-McDonald is transforming their business during COVID-19. They wish to build the automated cooking bots to reduce workforce and increase their efficiency. As one of the software engineer in the project. You task is to create an order controller which handle the order control flow. 
+McDonald is transforming their business during COVID-19. They wish to build the automated cooking bots to reduce workforce and increase their efficiency. As one of the software engineer in the project. You task is to create an order controller which handle the order control flow.
 
 ### User Story
 As below is part of the user story:
@@ -36,3 +36,16 @@ You may demostrate your final funtioning prototype with **one and only one** of 
 - Testing, testing and testing. Make sure the prototype is functioning and meeting all the requirements.
 - Treat this assignment as a vibe coding, don't over engineer it. Try to scope your working hour within 30 min. However, ensure you read and understand what your code doing.
 - Complete the implementation as clean as possible, clean code is a strong plus point, do not bring in all the fancy tech stuff.
+
+### Setup
+```
+# Install packages
+yarn
+
+# Run the app
+yarn dev
+
+# Run unit test
+yarn test
+```
+
