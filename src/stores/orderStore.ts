@@ -1,7 +1,7 @@
 import { reactive, readonly } from 'vue';
 import { Order, OrderType, Bot } from '../types/order';
 
-export const SIMULATION_DURATION = 5000;
+export const SIMULATION_DURATION = 10000;
 
 const state = reactive({
   orders: [] as Order[],
